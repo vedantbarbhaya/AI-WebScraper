@@ -7,6 +7,6 @@ To use this project,
    python main.py --url "https://en.wikipedia.org/wiki/SomeOtherPage"
 3. You can integrate the functionality of crawling a website using Firecrawl API. An example code is present in runner.py file.
 4. The processed content will be present under /data folder in markdown format suitable for LLM processing.
-5. 
+
 
  
