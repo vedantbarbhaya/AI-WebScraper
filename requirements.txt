@@ -1,0 +1,8 @@
+firecrawl-py
+html2text
+pydantic
+bs4
+emoji
+python-dotenv
+openai
+tiktoken
